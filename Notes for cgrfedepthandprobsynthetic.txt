@@ -1,0 +1,8 @@
+This program is similar to the program 'cgrforeqdepthanalysis'. 
+Only one file should be given as input. It should be specified in 'filename'
+the bindividsion for that file should be given in binbound
+
+The program creates a synthectic sequence of same length as the eq data specified in 'filename' with similar frequency distribution.
+
+
+All the outputs are same as for the prgram 'cgrfrdepthanalysis', but the outputs corresponding to filename1 are the ones given by the synthetic sequence.
